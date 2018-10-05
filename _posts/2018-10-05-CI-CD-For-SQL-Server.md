@@ -3,7 +3,7 @@ layout: default
 title: "CI/CD for SQL Server"
 ---
 
-#Welcome
+# Welcome
 **Hello world**, this is my first post.
 
 <div class="download-bar">
@@ -19,7 +19,7 @@ title: "CI/CD for SQL Server"
 
 <div class="download-bar">
   <div class="inner">
-    <a href="#" class="codes"> 
+    <a href="#" class="code"> 
       text inside 3.1
     </a>
   </div>
