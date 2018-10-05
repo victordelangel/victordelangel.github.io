@@ -1,5 +1,5 @@
-title: Time Machine theme
-description: Time Machine is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: Azure DevOps Templates
+description: Azure DevOps Templates
+show_downloads: false
+google_analytics: false
 theme: jekyll-theme-time-machine
