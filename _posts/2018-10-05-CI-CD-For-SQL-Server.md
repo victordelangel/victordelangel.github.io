@@ -20,7 +20,7 @@ title: "CI/CD for SQL Server"
 <div class="download-bar">
   <div class="inner">
     <a href="#" class="codes"> 
-      text inside 3
+      text inside 3.1
     </a>
   </div>
 </div>
