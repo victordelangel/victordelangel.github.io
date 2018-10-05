@@ -1,6 +1,5 @@
 ---
-layout:default
-title:Welcome
+layout: default
 ---
 <ul>
   {% for post in site.posts %}
