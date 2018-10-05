@@ -1,6 +1,6 @@
 ---
 layout:default
-title: CI/CD for SQL Server
+title: "CI/CD for SQL Server"
 ---
 
 #Welcome
