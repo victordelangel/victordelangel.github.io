@@ -24,6 +24,6 @@ title: "CI/CD for SQL Server"
 6.	Clic en el botón "Create"  
 
 Ejemplo:
-...
+```
 Ejemplo de código
-...
+```
