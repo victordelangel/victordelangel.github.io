@@ -3,24 +3,11 @@ layout: default
 title: "CI/CD for SQL Server"
 ---
 
-# Welcome
-**Hello world**, this is my first post.
+# CI/CD para SQL Server
 
-<div class="download-bar">
-  text inside 1
-</div>
+## PRE-REQUiSITOS
 
-
-<div class="download-bar">
-  <div class="inner">
-      text inside 2
-  </div>
-</div>
-
-<div class="download-bar">
-  <div class="inner">
-    <a href="#" class="code"> 
-      text inside 3.1
-    </a>
-  </div>
-</div>
+1.	Cuenta de VSTS
+2.	Cuenta de Azure con rol de owner
+3.	Crear Resource Group.
+4.	Crear VM con SQL Server Enterprise y Azure SQL Server
