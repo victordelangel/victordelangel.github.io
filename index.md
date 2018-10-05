@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Azure Devops templates"
 ---
 <ul>
   {% for post in site.posts %}
