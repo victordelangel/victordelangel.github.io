@@ -9,3 +9,18 @@ title: "CI/CD for SQL Server"
 <div class="download-bar">
   text inside!
 </div>
+
+
+<div class="download-bar">
+  <div class="inner">
+      text inside!
+  </div>
+</div>
+
+<div class="download-bar">
+  <div class="inner">
+    <p class="code"> 
+      text inside! 
+    </p>
+  </div>
+</div>
