@@ -22,3 +22,8 @@ title: "CI/CD for SQL Server"
 4.	Clic en el botón superior "Add"
 5.	En el campo “Resource group name” colocar el texto “WorkshopDEVOPSBI”, en el campo “Subscription” elegir la subscripción de Azure donde sean dueños, y en el campo “Resource group location” elegir la región “East US 2”.
 6.	Clic en el botón "Create"  
+
+Ejemplo:
+...
+Ejemplo de código
+...
