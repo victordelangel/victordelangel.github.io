@@ -19,8 +19,8 @@ title: "CI/CD for SQL Server"
 
 <div class="download-bar">
   <div class="inner">
-    <p class="code"> 
+    <a class="code"> 
       text inside! 
-    </p>
+    </a>
   </div>
 </div>
