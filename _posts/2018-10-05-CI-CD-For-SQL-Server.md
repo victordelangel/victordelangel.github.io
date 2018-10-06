@@ -23,6 +23,15 @@ title: "CI/CD for SQL Server"
 5.	En el campo “Resource group name” colocar el texto “WorkshopDEVOPSBI”, en el campo “Subscription” elegir la subscripción de Azure donde sean dueños, y en el campo “Resource group location” elegir la región “East US 2”.
 6.	Clic en el botón "Create"  
 
+
+### CREAR BASE DE DATOS PAAS AZURE SQL DATABASE.
+
+1.	Dentro del menú de la izquierda seleccionar el submenú "All Services"
+2.	Dar clic en la opción "SQL Database"  
+3.	Clic en el botón superior "Add"
+4.	Llenar los campos como se muestra en la siguiente imagen, variar la suscripción por el nombre de la subscripción donde sean dueños.
+
+
 Ejemplo:
 ```
 Ejemplo de código
